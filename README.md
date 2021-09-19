@@ -6,3 +6,6 @@ A Javascript coding quiz with 5 questions. Each correct answer gives you 10 poin
 
 # Deployed Website# 
  https://bokigolic.github.io/Code-Quiz/
+
+
+![ss1](https://user-images.githubusercontent.com/71577349/133945814-cb420b73-aa11-4d41-aa97-735d82de3f1e.png)
